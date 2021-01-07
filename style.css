@@ -19,9 +19,6 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  /*background-image: url('images/bg-pattern-top-desktop.svg'), url('images/bg-pattern-bottom-desktop.svg');*/
-  /*background-repeat: no-repeat;*/
-  /*background-position: right calc(47vw + 15%) bottom calc(65vh - 15vw), left calc(40vw + 25%) top calc(72vh - 10vw);*/
 }
 
 main {
